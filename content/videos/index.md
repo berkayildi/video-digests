@@ -2,4 +2,5 @@
 
 | Date | Title | File |
 |------|-------|------|
-| 2024-12-28 | The Money Expert: From $0 to Millions In 2 Years Without Any Hard Work!: Codie Sanchez | E258 | [2024-12-28-the-money-expert-from-0-to-millions-in-2-years-without-any-hard-work-codie-sanch.md](./2024-12-28-the-money-expert-from-0-to-millions-in-2-years-without-any-hard-work-codie-sanch.md) |
+| 2026-03-05 | Broadcom Expects 2027 AI Chips Sales to Top $100 Billion | Bloomberg Tech 3/5/2026 | [2026-03-05-broadcom-expects-2027-ai-chips-sales-to-top-100-billion-bloomberg-tech-3-5-2026.md](./2026-03-05-broadcom-expects-2027-ai-chips-sales-to-top-100-billion-bloomberg-tech-3-5-2026.md) |
+| 2026-03-04 | Anthropic Nears $20B Run Rate, Apple to Sell $599 Laptop | Bloomberg Tech 3/4/2026 | [2026-03-04-anthropic-nears-20b-run-rate-apple-to-sell-599-laptop-bloomberg-tech-3-4-2026.md](./2026-03-04-anthropic-nears-20b-run-rate-apple-to-sell-599-laptop-bloomberg-tech-3-4-2026.md) |
