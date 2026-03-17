@@ -2,6 +2,7 @@
 
 | Date | Title | File |
 |------|-------|------|
+| 2026-03-17 | Meta Expands AI Compute Deal, Nvidia GTC Kicks Off \| Bloomberg Tech 3/16/2026 | [2026-03-17-meta-expands-ai-compute-deal-nvidia-gtc-kicks-off-bloomberg-tech-3-16-2026.md](./2026-03-17-meta-expands-ai-compute-deal-nvidia-gtc-kicks-off-bloomberg-tech-3-16-2026.md) |
 | 2026-03-14 | Meta Cable Expansion Stalled by Iran Conflict \| Bloomberg Tech 3/13/2026 | [2026-03-14-meta-cable-expansion-stalled-by-iran-conflict-bloomberg-tech-3-13-2026.md](./2026-03-14-meta-cable-expansion-stalled-by-iran-conflict-bloomberg-tech-3-13-2026.md) |
 | 2026-03-12 | Tech Stocks Under Pressure As Iran War Drags On \| Bloomberg Tech 3/12/2026 | [2026-03-12-tech-stocks-under-pressure-as-iran-war-drags-on-bloomberg-tech-3-12-2026.md](./2026-03-12-tech-stocks-under-pressure-as-iran-war-drags-on-bloomberg-tech-3-12-2026.md) |
 | 2026-03-11 | Amazon Bond Sale Looks to Raise At Least $37 Billion | Bloomberg Tech 3/10/2026 | [2026-03-11-amazon-bond-sale-looks-to-raise-at-least-37-billion-bloomberg-tech-3-10-2026.md](./2026-03-11-amazon-bond-sale-looks-to-raise-at-least-37-billion-bloomberg-tech-3-10-2026.md) |
