@@ -2,6 +2,7 @@
 
 | Date | Title | File |
 |------|-------|------|
+| 2026-03-18 | Nvidia Forecasts $1 Trillion in Revenue Through 2027 \| Bloomberg Tech 3/17/2026 | [2026-03-18-nvidia-forecasts-1-trillion-in-revenue-through-2027-bloomberg-tech-3-17-2026.md](./2026-03-18-nvidia-forecasts-1-trillion-in-revenue-through-2027-bloomberg-tech-3-17-2026.md) |
 | 2026-03-17 | Meta Expands AI Compute Deal, Nvidia GTC Kicks Off \| Bloomberg Tech 3/16/2026 | [2026-03-17-meta-expands-ai-compute-deal-nvidia-gtc-kicks-off-bloomberg-tech-3-16-2026.md](./2026-03-17-meta-expands-ai-compute-deal-nvidia-gtc-kicks-off-bloomberg-tech-3-16-2026.md) |
 | 2026-03-14 | Meta Cable Expansion Stalled by Iran Conflict \| Bloomberg Tech 3/13/2026 | [2026-03-14-meta-cable-expansion-stalled-by-iran-conflict-bloomberg-tech-3-13-2026.md](./2026-03-14-meta-cable-expansion-stalled-by-iran-conflict-bloomberg-tech-3-13-2026.md) |
 | 2026-03-12 | Tech Stocks Under Pressure As Iran War Drags On \| Bloomberg Tech 3/12/2026 | [2026-03-12-tech-stocks-under-pressure-as-iran-war-drags-on-bloomberg-tech-3-12-2026.md](./2026-03-12-tech-stocks-under-pressure-as-iran-war-drags-on-bloomberg-tech-3-12-2026.md) |
