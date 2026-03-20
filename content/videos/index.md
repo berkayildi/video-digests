@@ -2,6 +2,7 @@
 
 | Date | Title | File |
 |------|-------|------|
+| 2026-03-20 | Micron Warns of Heavy Spending Amid Memory Crunch \| Bloomberg Tech 3/19/2026 | [2026-03-20-micron-warns-of-heavy-spending-amid-memory-crunch-bloomberg-tech-3-19-2026.md](./2026-03-20-micron-warns-of-heavy-spending-amid-memory-crunch-bloomberg-tech-3-19-2026.md) |
 | 2026-03-19 | Nvidia Says It's Getting Orders From China \| Bloomberg Tech 3/18/2026 | [2026-03-19-nvidia-says-it-s-getting-orders-from-china-bloomberg-tech-3-18-2026.md](./2026-03-19-nvidia-says-it-s-getting-orders-from-china-bloomberg-tech-3-18-2026.md) |
 | 2026-03-18 | Nvidia Forecasts $1 Trillion in Revenue Through 2027 \| Bloomberg Tech 3/17/2026 | [2026-03-18-nvidia-forecasts-1-trillion-in-revenue-through-2027-bloomberg-tech-3-17-2026.md](./2026-03-18-nvidia-forecasts-1-trillion-in-revenue-through-2027-bloomberg-tech-3-17-2026.md) |
 | 2026-03-17 | Meta Expands AI Compute Deal, Nvidia GTC Kicks Off \| Bloomberg Tech 3/16/2026 | [2026-03-17-meta-expands-ai-compute-deal-nvidia-gtc-kicks-off-bloomberg-tech-3-16-2026.md](./2026-03-17-meta-expands-ai-compute-deal-nvidia-gtc-kicks-off-bloomberg-tech-3-16-2026.md) |
