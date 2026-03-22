@@ -2,6 +2,7 @@
 
 | Date | Title | File |
 |------|-------|------|
+| 2026-03-22 | Stocks, Bonds Fall as No End to War in Sight \| Bloomberg Businessweek Daily 3/20/2026 | [2026-03-22-stocks-bonds-fall-as-no-end-to-war-in-sight-bloomberg-businessweek-daily-3-20-20.md](./2026-03-22-stocks-bonds-fall-as-no-end-to-war-in-sight-bloomberg-businessweek-daily-3-20-20.md) |
 | 2026-03-21 | Super Micro Co-Founder Charged With Smuggling Nvidia Chips to China \| Bloomberg Tech 3/20/2026 | [2026-03-21-super-micro-co-founder-charged-with-smuggling-nvidia-chips-to-china-bloomberg-te.md](./2026-03-21-super-micro-co-founder-charged-with-smuggling-nvidia-chips-to-china-bloomberg-te.md) |
 | 2026-03-20 | Micron Warns of Heavy Spending Amid Memory Crunch \| Bloomberg Tech 3/19/2026 | [2026-03-20-micron-warns-of-heavy-spending-amid-memory-crunch-bloomberg-tech-3-19-2026.md](./2026-03-20-micron-warns-of-heavy-spending-amid-memory-crunch-bloomberg-tech-3-19-2026.md) |
 | 2026-03-19 | Nvidia Says It's Getting Orders From China \| Bloomberg Tech 3/18/2026 | [2026-03-19-nvidia-says-it-s-getting-orders-from-china-bloomberg-tech-3-18-2026.md](./2026-03-19-nvidia-says-it-s-getting-orders-from-china-bloomberg-tech-3-18-2026.md) |
