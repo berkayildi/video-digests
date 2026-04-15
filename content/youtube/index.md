@@ -2,6 +2,9 @@
 
 | Date | Title | File |
 |------|-------|------|
+| 2026-04-15 | Harvard just discovered what AI actually is | [2026-04-15-harvard-just-discovered-what-ai-actually-is.md](./2026-04-15-harvard-just-discovered-what-ai-actually-is.md) |
+| 2026-04-14 | Unknown Title | [2026-04-14-unknown-title.md](./2026-04-14-unknown-title.md) |
+| 2026-04-14 | Regulators Warn of New Era of Cyber Risk From AI \| Bloomberg Tech 4/13/2026 | [2026-04-14-regulators-warn-of-new-era-of-cyber-risk-from-ai-bloomberg-tech-4-13-2026.md](./2026-04-14-regulators-warn-of-new-era-of-cyber-risk-from-ai-bloomberg-tech-4-13-2026.md) |
 | 2026-04-12 | Wall Street CEOs Summoned to Discuss Anthropic AI Risks \| Bloomberg Tech 4/10/2026 | [2026-04-12-wall-street-ceos-summoned-to-discuss-anthropic-ai-risks-bloomberg-tech-4-10-2026.md](./2026-04-12-wall-street-ceos-summoned-to-discuss-anthropic-ai-risks-bloomberg-tech-4-10-2026.md) |
 | 2026-04-12 | Market Analysis and Economic Update - Gold, Inflation, and Global Tensions | [2026-04-12-market-analysis-and-economic-update-gold-inflation-and-global-tensions.md](./2026-04-12-market-analysis-and-economic-update-gold-inflation-and-global-tensions.md) |
 | 2026-04-12 | Economic Analysis: US Inflation, Gold Reserves, and Turkey's Rating | [2026-04-12-economic-analysis-us-inflation-gold-reserves-and-turkey-s-rating.md](./2026-04-12-economic-analysis-us-inflation-gold-reserves-and-turkey-s-rating.md) |
