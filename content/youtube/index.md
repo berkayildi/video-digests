@@ -2,6 +2,7 @@
 
 | Date | Title | File |
 |------|-------|------|
+| 2026-05-02 | Apple Forecasts Sales Growth Amid Memory Shortage \| Bloomberg Tech 5/1/2026 | [2026-05-02-apple-forecasts-sales-growth-amid-memory-shortage-bloomberg-tech-5-1-2026.md](./2026-05-02-apple-forecasts-sales-growth-amid-memory-shortage-bloomberg-tech-5-1-2026.md) |
 | 2026-05-01 | AI Payoff in Focus During Tech Earnings Bonanza \| Bloomberg Tech 4/30/2026 | [2026-05-01-ai-payoff-in-focus-during-tech-earnings-bonanza-bloomberg-tech-4-30-2026.md](./2026-05-01-ai-payoff-in-focus-during-tech-earnings-bonanza-bloomberg-tech-4-30-2026.md) |
 | 2026-04-27 | The real reason they keep saying AI will take your job | [2026-04-27-the-real-reason-they-keep-saying-ai-will-take-your-job.md](./2026-04-27-the-real-reason-they-keep-saying-ai-will-take-your-job.md) |
 | 2026-04-25 | Intel Delivers Strong AI-Fueled Outlook \| Bloomberg Tech 4/24/2026 | [2026-04-25-intel-delivers-strong-ai-fueled-outlook-bloomberg-tech-4-24-2026.md](./2026-04-25-intel-delivers-strong-ai-fueled-outlook-bloomberg-tech-4-24-2026.md) |
